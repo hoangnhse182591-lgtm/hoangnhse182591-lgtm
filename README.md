@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Nguyen Huy Hoang
 
-<!--
-**hoangnhse182591-lgtm/hoangnhse182591-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student at FPT University, currently looking for a Backend Intern position.
 
-Here are some ideas to get you started:
+## About me
+- Backend-oriented student
+- Interested in building RESTful APIs and working with databases
+- Looking for opportunities to learn, work on real products, and improve backend development skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+- Languages: C#, TypeScript, Java, SQL
+- Backend: ASP.NET Web API
+- Database: SQL Server, MySQL, MongoDB
+- Tools: Git, GitHub, Postman, Swagger
+
+## Featured Project
+### Flood Rescue Coordination and Relief Management System
+Backend team project for supporting rescue coordination and relief management during floods.
+
+**My responsibilities:**
+- Developed APIs for rescue requests, rescue team assignment, warehouses, relief items, and inventory
+- Implemented backend logic for assigning rescue teams to rescue requests
+- Worked with SQL Server for data storage and backend operations
+- Tested APIs using Postman and Swagger
+
+## Contact
+- Email: hoangnhse182591@fpt.edu.vn
+- GitHub: https://github.com/hoangnhse182591-lgtm
