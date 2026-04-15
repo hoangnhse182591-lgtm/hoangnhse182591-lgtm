@@ -19,7 +19,7 @@ Backend team project for supporting rescue coordination and relief management du
 
 **My responsibilities:**
 - Developed APIs for rescue requests, rescue team assignment, warehouses, relief items, and inventory
-- Implemented backend logic for assigning rescue teams to rescue requests
+- Implemented backend logic for assigning rescue teams to suitable rescue requests
 - Worked with SQL Server for data storage and backend operations
 - Tested APIs using Postman and Swagger
 
